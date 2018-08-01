@@ -1,0 +1,10 @@
+<ActionBar title="List View Sample" icon="" class="action-bar">
+</ActionBar>
+
+<ListView #carListView [items]="carsList" (itemTap)="onItemTap(event)" pullToRefresh="true" (pullToRefreshInitiated)="pullToRefresh()" class="list-group">
+    <ng-template let-item="item" let-odd="odd" let-even="even">
+      <StackLayout>
+        <Label [text]="item.Make" class="list-group-item"></Label>        
+      </StackLayout>
+    </ng-template>
+</ListView>
