@@ -22,4 +22,8 @@ export class BrowseComponent implements OnInit {
     onListViewClick():void{
         this.router.navigate(['/listviewsample']);
     }
+
+    onNSAudioClick():void{
+        this.router.navigate(['/audiosample']);
+    }
 }

@@ -250,11 +250,11 @@
 		</data>
 		<key>app/listview/listsample.component.js</key>
 		<data>
-		DWeDc/DF4dVDtnUI/AStOqChhZE=
+		G2d7yty4/gw+ZJZQos1H2Wtux98=
 		</data>
 		<key>app/listview/listsample.component.ts</key>
 		<data>
-		DtKU53ljXEe7jLRyakwXJ4N8Kek=
+		grqlrAFJIWBrZY40j8cw8l5V1Pk=
 		</data>
 		<key>app/listview/listsample.model.js</key>
 		<data>
@@ -16700,6 +16700,46 @@
 		<data>
 		Awkmq1xjBYQ1kUjghJ7wqoU059s=
 		</data>
+		<key>app/tns_modules/nativescript-audio/android/player.js</key>
+		<data>
+		Hx36eHdwQdAbeGNnkol2Jotf3a4=
+		</data>
+		<key>app/tns_modules/nativescript-audio/android/recorder.js</key>
+		<data>
+		3GdGzbkmvH9ckWjoMAlaqIHW5NY=
+		</data>
+		<key>app/tns_modules/nativescript-audio/async-await.js</key>
+		<data>
+		rDki+/zbaJVLSKtSHWFIxcL57po=
+		</data>
+		<key>app/tns_modules/nativescript-audio/audio.js</key>
+		<data>
+		rIhTqdpwEzhqjtmTqbBLvhLon7U=
+		</data>
+		<key>app/tns_modules/nativescript-audio/common.js</key>
+		<data>
+		UDDIllG4fhr/xouMET//XpNuo/k=
+		</data>
+		<key>app/tns_modules/nativescript-audio/index.d.ts</key>
+		<data>
+		SoDpnu+h9v4H+g66Nqlo5mHTcXA=
+		</data>
+		<key>app/tns_modules/nativescript-audio/ios/player.js</key>
+		<data>
+		TO5+xngNRDbW785eUXHbGehiYPE=
+		</data>
+		<key>app/tns_modules/nativescript-audio/ios/recorder.js</key>
+		<data>
+		GPJSUKF5x8JqY3pHhYbt77nS16w=
+		</data>
+		<key>app/tns_modules/nativescript-audio/options.js</key>
+		<data>
+		mTVegVvBYe9b4yASLaV54CqmqAc=
+		</data>
+		<key>app/tns_modules/nativescript-audio/package.json</key>
+		<data>
+		Mnpegp0UI7e7Ur0pMLRbtYi2ZAc=
+		</data>
 		<key>app/tns_modules/nativescript-intl/README.md</key>
 		<data>
 		MUDkFX4XzEs6IawFqApmg1zoiQ4=
@@ -16727,6 +16767,26 @@
 		<key>app/tns_modules/nativescript-intl/package.json</key>
 		<data>
 		fRGkwWDD55MGHm8TfTjPlN20H0w=
+		</data>
+		<key>app/tns_modules/nativescript-permissions/LICENSE</key>
+		<data>
+		7rkd0q4rYK3SlRUt7yGK7k1g+ZU=
+		</data>
+		<key>app/tns_modules/nativescript-permissions/README.md</key>
+		<data>
+		ZbOnMz41INddJVboLGQshT9o+bw=
+		</data>
+		<key>app/tns_modules/nativescript-permissions/index.d.ts</key>
+		<data>
+		BBKGEQF0x3FYCEoFAE9AsPzeN4M=
+		</data>
+		<key>app/tns_modules/nativescript-permissions/package.json</key>
+		<data>
+		Oek+3za9XQa+PidwtSjgTgVgJd8=
+		</data>
+		<key>app/tns_modules/nativescript-permissions/permissions.js</key>
+		<data>
+		jJ6pD624dsp+RevcpPa3Ar6JLHI=
 		</data>
 		<key>app/tns_modules/nativescript-theme-core/css/aqua.css</key>
 		<data>
@@ -34029,22 +34089,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			DWeDc/DF4dVDtnUI/AStOqChhZE=
+			G2d7yty4/gw+ZJZQos1H2Wtux98=
 			</data>
 			<key>hash2</key>
 			<data>
-			DhYJ7wz/mISiZVOcG1+PWatd2kbmtIZWGNIA8ZQhoIE=
+			OLtkGQB6zoKwTzp8sWmqIYQnO2mZqq4Zvq7+eXwVHnY=
 			</data>
 		</dict>
 		<key>app/listview/listsample.component.ts</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			DtKU53ljXEe7jLRyakwXJ4N8Kek=
+			grqlrAFJIWBrZY40j8cw8l5V1Pk=
 			</data>
 			<key>hash2</key>
 			<data>
-			7YzCCE5IybJMnQh0fl9duJohdQ5bK0k+35cam5pEH8k=
+			i2t4OUJQa23ZnPexI2eDJwZlybvLp1wBBzfo25VPheY=
 			</data>
 		</dict>
 		<key>app/listview/listsample.model.js</key>
@@ -79268,6 +79328,116 @@
 			GY922iU+ej+r5pD12+PHXD1TPa9vyyNHKLhb6hacJ1w=
 			</data>
 		</dict>
+		<key>app/tns_modules/nativescript-audio/android/player.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Hx36eHdwQdAbeGNnkol2Jotf3a4=
+			</data>
+			<key>hash2</key>
+			<data>
+			Ijm4SoOXY5LJG2SUEH0QOU0nfC+XE6NIHD7QwE99+TQ=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-audio/android/recorder.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			3GdGzbkmvH9ckWjoMAlaqIHW5NY=
+			</data>
+			<key>hash2</key>
+			<data>
+			8y2aMlXNJJBhZn6/UbvTnC21SBnzhHTeoJpZTyC+xes=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-audio/async-await.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			rDki+/zbaJVLSKtSHWFIxcL57po=
+			</data>
+			<key>hash2</key>
+			<data>
+			FCqSRhWKYcGW7EV0DmBwpfOpfhsYFORjT2NDQ5kDhOE=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-audio/audio.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			rIhTqdpwEzhqjtmTqbBLvhLon7U=
+			</data>
+			<key>hash2</key>
+			<data>
+			mCqVTspF4E6WhKUwyRwXfMowPA+8+VxQERy+rpitlD8=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-audio/common.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			UDDIllG4fhr/xouMET//XpNuo/k=
+			</data>
+			<key>hash2</key>
+			<data>
+			VtHw187xO85cjreVMLqXm77IOnuPR/NQFqex0sT7uL0=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-audio/index.d.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			SoDpnu+h9v4H+g66Nqlo5mHTcXA=
+			</data>
+			<key>hash2</key>
+			<data>
+			E26aJd1PYa3Wx+37XAgfHbj0AFUFazGTa10iIFschpQ=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-audio/ios/player.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			TO5+xngNRDbW785eUXHbGehiYPE=
+			</data>
+			<key>hash2</key>
+			<data>
+			P2GKVUigkZDPNzkfMiVpXMlZAO7G6npdo9TmkNARosE=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-audio/ios/recorder.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			GPJSUKF5x8JqY3pHhYbt77nS16w=
+			</data>
+			<key>hash2</key>
+			<data>
+			TFIhIpJsi3K/adbjulC511W2FSu3TmT9iyKDiHJoZQg=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-audio/options.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			mTVegVvBYe9b4yASLaV54CqmqAc=
+			</data>
+			<key>hash2</key>
+			<data>
+			DdLUjRSc3BlDx7rWJhpuEqYMjMkhrINRnhhVLUqxIOs=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-audio/package.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Mnpegp0UI7e7Ur0pMLRbtYi2ZAc=
+			</data>
+			<key>hash2</key>
+			<data>
+			fqD0jvgszuTCFgKA1IYBRV6bKrilLEOB+BhKwf+ZbBA=
+			</data>
+		</dict>
 		<key>app/tns_modules/nativescript-intl/README.md</key>
 		<dict>
 			<key>hash</key>
@@ -79343,6 +79513,61 @@
 			<key>hash2</key>
 			<data>
 			/hBGgVcaS2YWHd1DKex9pDff3aw2FAu4mOsxAHdtwsY=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-permissions/LICENSE</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7rkd0q4rYK3SlRUt7yGK7k1g+ZU=
+			</data>
+			<key>hash2</key>
+			<data>
+			R+g/WVCFSYtAOUi/R9EsdMo3J0M/4xEB3zhJuWGF+IM=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-permissions/README.md</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ZbOnMz41INddJVboLGQshT9o+bw=
+			</data>
+			<key>hash2</key>
+			<data>
+			XFiajKOMiZR2eFHRlFZSDv32ngR/mey8EaX+TZMoNuE=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-permissions/index.d.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			BBKGEQF0x3FYCEoFAE9AsPzeN4M=
+			</data>
+			<key>hash2</key>
+			<data>
+			sGWRpjVPeVRiBo05HwFIP5xhIgNY6nZksNv4IhplisM=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-permissions/package.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Oek+3za9XQa+PidwtSjgTgVgJd8=
+			</data>
+			<key>hash2</key>
+			<data>
+			rvO2plVf7Y1IR40YXbx2jicnJk9qSNbJGrmmfSfShAo=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-permissions/permissions.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			jJ6pD624dsp+RevcpPa3Ar6JLHI=
+			</data>
+			<key>hash2</key>
+			<data>
+			91hyhH2G5KOTZmtW12abkLLuIRhAUp0nV3AVqvA6M60=
 			</data>
 		</dict>
 		<key>app/tns_modules/nativescript-theme-core/css/aqua.css</key>

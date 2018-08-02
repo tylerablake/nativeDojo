@@ -46,6 +46,7 @@ export class ListSampleComponent implements OnInit{
             console.log('Record Permission Granted!');
             //Configure AudioSession
             //audioSession.category = AVAudioSessionCategoryPlayAndRecord; 
+            console.log(audioSession)
           }
           else{
             console.log('Record Permission DENIED!');

@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { Car } from './listsample.model';
-import { Page, isIOS } from 'tns-core-modules/ui/page/page';
-var swipeDelete = require('tns-core-modules/utils/ios-swipe-delete.js');
+import { Page, isIOS, ViewBase } from 'tns-core-modules/ui/page/page';
+// var swipeDelete = require('tns-core-modules/utils/ios-swipe-delete.js');
 
 @Component({
   selector: 'ListSample',
@@ -24,13 +24,62 @@ export class ListSampleComponent implements OnInit{
   }  
 
   constructor(private page:Page) {
-    const carListView = this.page.getViewById('carListView');
+    const carListView = this.page.getViewById('carListView') as ViewBase;
 
-    if(carListView){
-      const iOSListView = carListView.ios as UITableView;
-      swipeDelete.enable(carListView, function(index){
-        this.carsList.delete(index);
-      });
+
+
+
+
+
+
+    if(isIOS){
+
+      //How to record Audio with AVAudioSession
+
+      //Access app's singleton audio session instance
+      let audioSession:AVAudioSession = AVAudioSession.sharedInstance();
+
+      //Get User permission to record
+      if(audioSession.respondsToSelector('requestRecordPermission:')){
+        AVAudioSession.sharedInstance().requestRecordPermission((granted:boolean) => {
+          if(granted){
+            console.log('Record Permission Granted!');
+            //Configure AudioSession
+            //audioSession.category = AVAudioSessionCategoryPlayAndRecord; 
+            console.log(audioSession)
+          }
+          else{
+            console.log('Record Permission DENIED!');
+          }
+        })
+      }
+
+
+
+
+
+
+
+
+
+      //Access Microphone
+
+
+
+
+
+
+
+
+      //var iosListView = carListView.ios as UITableView;
+      //var iosListView = carListView.ios as UITableView;
+      //iosListView.separatorColor = UIColor.redColor;
+      //iosListView.showsVerticalScrollIndicator = false;
+      //iosListView.showsHorizontalScrollIndicator = true;
+      // swipeDelete.enable(carListView, function(index){
+      //   this.carsList.delete(index);
+      // });
+      //carListView.ios.separatorColor = UIColor.redColor;
     }    
 
 
@@ -46,5 +95,6 @@ export class ListSampleComponent implements OnInit{
 
   onItemTap(args):void{
     console.log(`Tapped on an item`);
+    this.addCars();
   }
 }
