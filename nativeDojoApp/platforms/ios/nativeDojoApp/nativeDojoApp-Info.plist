@@ -47,6 +47,8 @@
     <string>UIStatusBarStyleLightContent</string>
     <key>UIViewControllerBasedStatusBarAppearance</key>
     <false/>
+    <key>NSMicrophoneUsageDescription</key>
+    <string>Recording Practice Sessions</string>
     <key>CFBundleIdentifier</key>
     <string>org.nativescript.nativeDojoApp</string>
     <key>CFBundleURLTypes</key>
