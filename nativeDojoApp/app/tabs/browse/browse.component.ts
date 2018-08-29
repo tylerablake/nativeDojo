@@ -20,10 +20,18 @@ export class BrowseComponent implements OnInit {
     }
 
     onListViewClick():void{
-        this.router.navigate(['/listviewsample']);
+        this.router.navigate(['/listview-sample']);
     }
 
     onNSAudioClick():void{
-        this.router.navigate(['/audiosample']);
+        this.router.navigate(['/audio-sample']);
+    }
+
+    onNativeAPIClick():void{
+        this.router.navigate(['/native-api-sample']);
+    }
+
+    onModalClick():void{
+        this.router.navigate(['/modal-sample'])
     }
 }

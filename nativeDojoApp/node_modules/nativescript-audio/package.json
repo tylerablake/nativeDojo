@@ -1,27 +1,31 @@
 {
-  "_from": "nativescript-audio",
+  "_args": [
+    [
+      "nativescript-audio@4.3.5",
+      "/Users/tyler/Documents/github/nativeDojo/nativeDojoApp"
+    ]
+  ],
+  "_from": "nativescript-audio@4.3.5",
   "_id": "nativescript-audio@4.3.5",
   "_inBundle": false,
   "_integrity": "sha512-fmslxzCqoehy3Pp/8GVO2SJq/+/5uZYcG4OlHZQrXcUDZrQgEfUhS7O9suhrU43oFxiN6tf9H1tu/D/8z7ETuA==",
   "_location": "/nativescript-audio",
   "_phantomChildren": {},
   "_requested": {
-    "type": "tag",
+    "type": "version",
     "registry": true,
-    "raw": "nativescript-audio",
+    "raw": "nativescript-audio@4.3.5",
     "name": "nativescript-audio",
     "escapedName": "nativescript-audio",
-    "rawSpec": "",
+    "rawSpec": "4.3.5",
     "saveSpec": null,
-    "fetchSpec": "latest"
+    "fetchSpec": "4.3.5"
   },
   "_requiredBy": [
-    "#USER",
     "/"
   ],
   "_resolved": "https://registry.npmjs.org/nativescript-audio/-/nativescript-audio-4.3.5.tgz",
-  "_shasum": "8e017a4c02438830dcd30a58d3ef875ee3c5451a",
-  "_spec": "nativescript-audio",
+  "_spec": "4.3.5",
   "_where": "/Users/tyler/Documents/github/nativeDojo/nativeDojoApp",
   "author": {
     "name": "Brad Martin",
@@ -31,7 +35,6 @@
   "bugs": {
     "url": "https://github.com/bradmartin/nativescript-audio/issues"
   },
-  "bundleDependencies": false,
   "contributors": [
     {
       "name": "Nathan Walker",
@@ -102,7 +105,6 @@
   "dependencies": {
     "nativescript-permissions": "~1.2.3"
   },
-  "deprecated": false,
   "description": "NativeScript plugin to record and play audio.",
   "devDependencies": {
     "husky": "^0.14.3",

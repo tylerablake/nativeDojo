@@ -246,11 +246,11 @@
 		</data>
 		<key>app/audio-sample/audio-sample.component.js</key>
 		<data>
-		8COsGTeoBvXU0AReYNPqEEGP8uo=
+		nu4me7/i2e6g6tZOMklYFVubBN4=
 		</data>
 		<key>app/audio-sample/audio-sample.component.ts</key>
 		<data>
-		VqmuIBMdG5DE2UWfjPvrlxKqavo=
+		B7FSaZpCwjVK0KsclN7ZH2+7sp4=
 		</data>
 		<key>app/fonts/FontAwesome.ttf</key>
 		<data>
@@ -16434,7 +16434,7 @@
 		</data>
 		<key>app/tns_modules/nativescript-angular/package.json</key>
 		<data>
-		4pYR5WDgaO2nVMh+ar8wC5qnlPw=
+		Lo8WAu6MbSOK1x6MGd79jSR/IoI=
 		</data>
 		<key>app/tns_modules/nativescript-angular/platform-common.d.ts</key>
 		<data>
@@ -16750,7 +16750,7 @@
 		</data>
 		<key>app/tns_modules/nativescript-audio/package.json</key>
 		<data>
-		Mnpegp0UI7e7Ur0pMLRbtYi2ZAc=
+		4zzhqL69tjj3ySjq7v3S0o33mUU=
 		</data>
 		<key>app/tns_modules/nativescript-intl/README.md</key>
 		<data>
@@ -16778,7 +16778,7 @@
 		</data>
 		<key>app/tns_modules/nativescript-intl/package.json</key>
 		<data>
-		fRGkwWDD55MGHm8TfTjPlN20H0w=
+		RN3Ih0mHUVi6c1s5eH528oKYgoY=
 		</data>
 		<key>app/tns_modules/nativescript-permissions/LICENSE</key>
 		<data>
@@ -16794,7 +16794,7 @@
 		</data>
 		<key>app/tns_modules/nativescript-permissions/package.json</key>
 		<data>
-		Oek+3za9XQa+PidwtSjgTgVgJd8=
+		1Ocs4B4pCCT68Gby5CKznVE0Ztw=
 		</data>
 		<key>app/tns_modules/nativescript-permissions/permissions.js</key>
 		<data>
@@ -31954,7 +31954,7 @@
 		</data>
 		<key>app/tns_modules/tns-core-modules-widgets/package.json</key>
 		<data>
-		NUbJFEvx1Uf1gfwYEU+8rbJ2TWI=
+		MvAfubgWVnRhGhLSVlMNTUM5N5U=
 		</data>
 		<key>app/tns_modules/tns-core-modules/LICENSE</key>
 		<data>
@@ -32242,7 +32242,7 @@
 		</data>
 		<key>app/tns_modules/tns-core-modules/package.json</key>
 		<data>
-		yLH0ABToPyg6zNMbAhETrBX/mBY=
+		0XijRWy/cmHJCASzVCfMP7oqsN4=
 		</data>
 		<key>app/tns_modules/tns-core-modules/platform/package.json</key>
 		<data>
@@ -34090,22 +34090,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			8COsGTeoBvXU0AReYNPqEEGP8uo=
+			nu4me7/i2e6g6tZOMklYFVubBN4=
 			</data>
 			<key>hash2</key>
 			<data>
-			wxJFErVdfICyg5yHLgVJVb+Mu3pYWoFjgznrz68oJaU=
+			gXnjS+sBy6luDb3WmFzVr2pXOHAiui/v1Cn1qUMz4Qg=
 			</data>
 		</dict>
 		<key>app/audio-sample/audio-sample.component.ts</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			VqmuIBMdG5DE2UWfjPvrlxKqavo=
+			B7FSaZpCwjVK0KsclN7ZH2+7sp4=
 			</data>
 			<key>hash2</key>
 			<data>
-			mcfV4W5ZFPyaYvkMBRzjzEIuYuVI/PxLrxm0nAoKgeo=
+			JYGYAKMXDapWZ1oN2O4a21A/QMUsm/YGxfYcMHHIOH8=
 			</data>
 		</dict>
 		<key>app/fonts/FontAwesome.ttf</key>
@@ -78607,11 +78607,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			4pYR5WDgaO2nVMh+ar8wC5qnlPw=
+			Lo8WAu6MbSOK1x6MGd79jSR/IoI=
 			</data>
 			<key>hash2</key>
 			<data>
-			QjicKM/cg3frf/lxiulGCZxFQ/Ld5CNEMd/VPvDPQa4=
+			kLfAP/f4ZXJ6QkFs8dhWIj8ipaAJVtQxUBY8FsMUZx4=
 			</data>
 		</dict>
 		<key>app/tns_modules/nativescript-angular/platform-common.d.ts</key>
@@ -79476,11 +79476,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Mnpegp0UI7e7Ur0pMLRbtYi2ZAc=
+			4zzhqL69tjj3ySjq7v3S0o33mUU=
 			</data>
 			<key>hash2</key>
 			<data>
-			fqD0jvgszuTCFgKA1IYBRV6bKrilLEOB+BhKwf+ZbBA=
+			5RaIuese8U/PGDwikxV7IpJDhUUcaduPdU46JnHlBSA=
 			</data>
 		</dict>
 		<key>app/tns_modules/nativescript-intl/README.md</key>
@@ -79553,11 +79553,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			fRGkwWDD55MGHm8TfTjPlN20H0w=
+			RN3Ih0mHUVi6c1s5eH528oKYgoY=
 			</data>
 			<key>hash2</key>
 			<data>
-			/hBGgVcaS2YWHd1DKex9pDff3aw2FAu4mOsxAHdtwsY=
+			DnRQPkVY4jbk7KJQicl5UJznUSmgCM6AgkeJnv7GMUw=
 			</data>
 		</dict>
 		<key>app/tns_modules/nativescript-permissions/LICENSE</key>
@@ -79597,11 +79597,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Oek+3za9XQa+PidwtSjgTgVgJd8=
+			1Ocs4B4pCCT68Gby5CKznVE0Ztw=
 			</data>
 			<key>hash2</key>
 			<data>
-			rvO2plVf7Y1IR40YXbx2jicnJk9qSNbJGrmmfSfShAo=
+			meopZ3lG9ujWy0DUvAdJhYsBaKsyuXEOpfTV9Bdkmws=
 			</data>
 		</dict>
 		<key>app/tns_modules/nativescript-permissions/permissions.js</key>
@@ -121287,11 +121287,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			NUbJFEvx1Uf1gfwYEU+8rbJ2TWI=
+			MvAfubgWVnRhGhLSVlMNTUM5N5U=
 			</data>
 			<key>hash2</key>
 			<data>
-			J5iuO4tdv75HCf7JeaEfC3oWzxVdTSOBI+kPdPrUoaY=
+			IOY4Car1j7yiUy2KcdxGAzumG33y9S0gm1MbALKFOus=
 			</data>
 		</dict>
 		<key>app/tns_modules/tns-core-modules/LICENSE</key>
@@ -122079,11 +122079,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			yLH0ABToPyg6zNMbAhETrBX/mBY=
+			0XijRWy/cmHJCASzVCfMP7oqsN4=
 			</data>
 			<key>hash2</key>
 			<data>
-			KK5sYK85ZTYFtKAfmUj8WRRJQssYNOXW0q1PkMEo3yE=
+			pQXN5t9dfSIFi6AOntFHordR4Jkp73ecZjCnEYfARys=
 			</data>
 		</dict>
 		<key>app/tns_modules/tns-core-modules/platform/package.json</key>

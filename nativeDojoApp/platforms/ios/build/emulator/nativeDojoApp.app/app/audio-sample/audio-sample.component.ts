@@ -87,7 +87,7 @@ export class AudioSampleComponent {
             }
           };
     
-          await this._recorder.start(recorderOptions);
+          this._recorder.start(recorderOptions);
           this.isRecording = true;
           if (recorderOptions.metering) {
             //this._initMeter();

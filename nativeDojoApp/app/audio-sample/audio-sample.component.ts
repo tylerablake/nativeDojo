@@ -11,7 +11,7 @@ import * as app from 'tns-core-modules/application';
     templateUrl: `./audio-sample.component.html`
 })
 export class AudioSampleComponent {
-    private _recorder: TNSRecorder;
+    //private _recorder: TNSRecorder;
     public isPlaying: boolean;
     public isRecording: boolean;
     public audioMeter = '0';
@@ -19,7 +19,7 @@ export class AudioSampleComponent {
     public currentVolume;
     public audioTrackDuration;
     public remainingDuration; // used to show the remaining time of the audio track
-    //private _recorder;
+    private _recorder;
     private _player: TNSPlayer;
     private _audioSessionId;
     private _page;
@@ -89,9 +89,9 @@ export class AudioSampleComponent {
     
           this._recorder.start(recorderOptions);
           this.isRecording = true;
-          if (recorderOptions.metering) {
-            //this._initMeter();
-          }
+          // if (recorderOptions.metering) {
+          //   //this._initMeter();
+          // }
         } catch (err) {
           this.isRecording = false;
           //this._resetMeter();
